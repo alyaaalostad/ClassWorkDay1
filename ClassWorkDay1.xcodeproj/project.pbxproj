@@ -15,6 +15,7 @@
 		01076EF2245F5A8F00DC60A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 01076EF0245F5A8F00DC60A4 /* LaunchScreen.storyboard */; };
 		01076EFC245F642700DC60A4 /* thekr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01076EFB245F642700DC60A4 /* thekr.swift */; };
 		01076EFE245F64DF00DC60A4 /* Classwork2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01076EFD245F64DF00DC60A4 /* Classwork2.swift */; };
+		01076F00245F67F000DC60A4 /* Classwork3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01076EFF245F67F000DC60A4 /* Classwork3.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		01076EF3245F5A8F00DC60A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01076EFB245F642700DC60A4 /* thekr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = thekr.swift; sourceTree = "<group>"; };
 		01076EFD245F64DF00DC60A4 /* Classwork2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classwork2.swift; sourceTree = "<group>"; };
+		01076EFF245F67F000DC60A4 /* Classwork3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Classwork3.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				01076EE7245F5A8C00DC60A4 /* SceneDelegate.swift */,
 				01076EFD245F64DF00DC60A4 /* Classwork2.swift */,
 				01076EFB245F642700DC60A4 /* thekr.swift */,
+				01076EFF245F67F000DC60A4 /* Classwork3.swift */,
 				01076EE9245F5A8C00DC60A4 /* ContentView.swift */,
 				01076EEB245F5A8F00DC60A4 /* Assets.xcassets */,
 				01076EF0245F5A8F00DC60A4 /* LaunchScreen.storyboard */,
@@ -155,6 +158,7 @@
 				01076EFC245F642700DC60A4 /* thekr.swift in Sources */,
 				01076EFE245F64DF00DC60A4 /* Classwork2.swift in Sources */,
 				01076EE6245F5A8C00DC60A4 /* AppDelegate.swift in Sources */,
+				01076F00245F67F000DC60A4 /* Classwork3.swift in Sources */,
 				01076EE8245F5A8C00DC60A4 /* SceneDelegate.swift in Sources */,
 				01076EEA245F5A8C00DC60A4 /* ContentView.swift in Sources */,
 			);
